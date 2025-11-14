@@ -1,0 +1,301 @@
+product_id,name,category,sub_category,price,stock_quantity,added_at
+455dcfc4-bf68-4047-b83b-81073e03df13,Aether Zen Mobiles 1,electronics,mobiles,7267.78,130,2022-12-13 23:53:58
+9e839dfd-2600-40a8-83f3-cb097a9f300e,Pulse Edge Laptops 1,electronics,laptops,3323.23,307,2023-10-18 16:23:08
+07b368ad-f816-47eb-9289-78545433dec3,Aether Edge Mobiles 1,electronics,mobiles,6085.17,124,2024-02-25 07:00:38
+d44b9c04-b8c1-4b53-94ed-c81cf9d60067,Lumina Nova Mobiles 1,electronics,mobiles,10297.96,117,2023-11-30 01:43:37
+ee4f0cb2-052f-41db-8e0d-03215d546f95,Aether Nova Headphones 1,electronics,headphones,10362.86,179,2023-03-08 21:47:40
+044af4b5-a731-4068-ae54-ce1b358ce9ea,Solace Hyper Laptops 1,electronics,laptops,3643.5,52,2023-08-14 10:42:59
+526ca3f1-e522-4975-a7f1-a2f2dbccb4bc,Cadenza Hyper Mobiles 1,electronics,mobiles,7047.4,418,2022-03-09 17:56:59
+3beb0b70-62bc-4f9a-ad60-deef7d3201ac,Lumina Edge Tablets 1,electronics,tablets,9438.44,45,2024-05-07 19:33:59
+78effdce-1502-43fa-9f13-329a142f203a,Pulse Pulse Headphones 1,electronics,headphones,9084.03,300,2022-10-26 23:02:17
+b0253555-5faf-4d67-afae-a554efa1ce0c,Aether Zen Mobiles 2,electronics,mobiles,6279.37,400,2023-03-26 19:09:54
+afa71e08-37be-46e2-85c4-371906c05e2c,Solace Edge Mobiles 1,electronics,mobiles,9471.82,147,2023-12-06 14:21:40
+7cc82e3d-8669-4a49-a139-fb753fc961c9,Solace Hyper Headphones 1,electronics,headphones,8950.56,112,2024-11-07 07:56:29
+524678d0-fd8a-43cb-b793-ae2638974537,Pulse Zen Headphones 1,electronics,headphones,2997.41,316,2024-09-13 15:42:23
+94821704-19b9-4226-83ec-4152a13dd5c8,Lumina Zen Laptops 1,electronics,laptops,6634.05,88,2023-12-20 08:18:35
+2e0bf2bf-a848-49e7-ae8b-75651aa22f12,Cadenza Zen Tablets 1,electronics,tablets,6105.66,355,2023-05-20 00:08:11
+35f3d690-bdba-40d3-8d03-8d0cd88e5f62,Solace Edge Mobiles 2,electronics,mobiles,8115.52,210,2023-02-21 04:06:12
+0fab1776-a14f-43ed-82de-9af1a40c9430,Solace Pulse Mobiles 1,electronics,mobiles,8099.27,113,2024-10-15 10:31:28
+bcf8336c-05ba-4eb4-8a34-b6cb79e82e91,Vertex Zen Tablets 1,electronics,tablets,11122.82,78,2023-02-16 17:26:54
+9fb3b1e7-e9ee-4d09-ad2c-d52c9f62267c,Solace Zen Laptops 1,electronics,laptops,7010.09,387,2024-06-27 08:56:43
+337fbeec-d263-44e6-b347-d4ab37cf8e29,Lumina Quantum Tablets 1,electronics,tablets,9091.61,117,2022-08-04 03:22:52
+5c08b052-bec0-455f-9087-dccd3e442ad2,Aether Edge Tablets 1,electronics,tablets,3799.5,83,2024-09-01 22:53:02
+046f37bf-cddc-4089-889b-bc138a82e294,Pulse Quantum Laptops 1,electronics,laptops,2832.27,202,2023-08-17 01:47:53
+b4a6f2b2-0856-4e3c-8f8a-aba3b43ac6a6,Lumina Hyper Tablets 1,electronics,tablets,1740.77,353,2022-06-28 04:47:54
+567800f4-6934-4a41-997b-18136c30bb24,Pulse Hyper Headphones 1,electronics,headphones,3839.41,155,2023-11-07 15:13:24
+968490f3-9874-42c4-a68e-db80f993c229,Vertex Edge Laptops 1,electronics,laptops,7023.66,261,2022-10-05 18:37:29
+a29cbc13-c1c3-45fa-9e0c-6bd0e7c389a6,Pulse Hyper Mobiles 1,electronics,mobiles,12146.46,316,2022-11-06 05:56:36
+1825df1b-5db9-4966-a152-4543746cdff1,Cadenza Nova Laptops 1,electronics,laptops,1511.99,311,2023-05-19 19:24:49
+52195308-f14c-42a5-b9ed-b97efd36f6af,Aether Edge Tablets 2,electronics,tablets,9112.25,454,2023-04-23 22:57:27
+0980a891-df3a-4eca-bf74-574b79490bfa,Aether Nova Laptops 1,electronics,laptops,3151.65,48,2024-01-26 05:02:15
+fb64881e-d700-49e2-834a-94a4d81c6d8e,Lumina Nova Mobiles 2,electronics,mobiles,4192.56,342,2024-01-09 13:48:40
+7262240e-c656-4bf7-ade0-37788011af28,Cadenza Pulse Laptops 1,electronics,laptops,10373.84,498,2022-11-26 06:24:33
+347a4328-f97e-4faf-84f3-9297e731a130,Pulse Hyper Laptops 1,electronics,laptops,9867.47,348,2024-10-06 19:12:36
+7aa6eeb8-0c2d-4fc3-97ad-16d110e81baa,Vertex Pulse Headphones 1,electronics,headphones,10968.35,66,2023-01-21 08:35:28
+d2d1991c-158b-4db1-b76e-037284cf9da6,Aether Hyper Laptops 1,electronics,laptops,1941.12,306,2024-05-10 17:41:28
+3b9c22ad-c98b-4b62-8f10-7fc517d3346f,Lumina Nova Laptops 1,electronics,laptops,1650.8,41,2024-09-07 15:13:25
+fb708805-044c-412f-b434-83763fcb4d15,Solace Edge Mobiles 3,electronics,mobiles,2158.77,445,2023-05-29 13:16:01
+8aca9bb5-5741-4201-a41e-58c86b1bc8eb,Lumina Nova Mobiles 3,electronics,mobiles,7340.09,347,2024-01-25 07:33:51
+3e47b061-5fc8-4f3f-9ee4-448ecc09b345,Lumina Nova Laptops 2,electronics,laptops,11412.62,129,2024-01-05 23:42:33
+f6f1ce28-75fd-4dd7-9e1e-57f40363cc1b,Solace Edge Tablets 1,electronics,tablets,3532.78,342,2023-11-01 20:45:10
+4206a48a-0f4b-4bc1-99b6-5ee60193be97,Vertex Quantum Headphones 1,electronics,headphones,11294.21,447,2022-03-26 09:38:53
+0c094ba0-2259-4b70-87b4-993db7d0430b,Aether Quantum Mobiles 1,electronics,mobiles,8615.69,414,2022-06-19 23:50:41
+300f37fb-dd37-4f28-a390-20c89d0c0f9f,Solace Nova Laptops 1,electronics,laptops,10908.1,76,2023-10-18 14:53:15
+9abde2a2-7f62-4828-b0f3-3e60a601ee68,Cadenza Quantum Laptops 1,electronics,laptops,6738.82,452,2022-04-28 08:33:08
+e9cfb86f-62e3-4afb-b321-611bd0cc365a,Lumina Edge Tablets 2,electronics,tablets,2560.91,338,2024-04-20 00:34:44
+a2b14497-57b4-4249-9f91-2e99cff2d574,Aether Nova Mobiles 1,electronics,mobiles,4987.79,213,2024-01-25 16:00:48
+68b15286-f08d-4590-8fbd-a83524fcad63,Solace Quantum Tablets 1,electronics,tablets,2729.67,89,2023-08-12 23:08:31
+fb0d1278-e996-48b8-9c82-bf6b9fb79f7e,Vertex Hyper Mobiles 1,electronics,mobiles,11042.21,151,2023-10-20 08:51:43
+0964618b-774f-4de3-9d89-0ae5e972fe27,Solace Nova Tablets 1,electronics,tablets,7722.41,116,2022-04-02 02:24:54
+272741ea-98f2-43c9-b694-c8a7f713f400,Pulse Hyper Mobiles 2,electronics,mobiles,2698.84,30,2024-06-26 17:43:09
+4a5b07b6-9914-4e93-a8ad-7c83c2a4f915,Lumina Pulse Tablets 1,electronics,tablets,4801.6,34,2024-02-29 03:13:07
+ef0140fb-e64d-44b0-b6d0-64b96a4bbe50,Solace Edge Mobiles 4,electronics,mobiles,2925.24,350,2023-01-01 15:02:12
+2c57fcee-7cdc-4804-9a33-2131a974f92a,Aether Pulse Tablets 1,electronics,tablets,6663.51,301,2024-07-12 19:16:50
+4f787ae9-eeea-47d4-a9d3-d96db3c2b02e,Lumina Edge Mobiles 1,electronics,mobiles,10291.78,341,2024-06-25 22:52:48
+a509c978-cbde-46af-82d8-912a19d2269b,Cadenza Nova Headphones 1,electronics,headphones,8088.91,127,2023-02-17 20:49:36
+639609fe-5292-4f54-82d9-43c55129296b,Solace Zen Tablets 1,electronics,tablets,7791.39,239,2023-05-07 09:56:24
+530111cc-fb9d-4657-89bf-31d82ea3d159,Aether Quantum Mobiles 2,electronics,mobiles,3596.75,42,2024-04-15 10:27:48
+46174d2b-4c04-429c-b85a-1d0a345039bc,Lumina Hyper Laptops 1,electronics,laptops,4277.81,482,2023-06-27 09:59:32
+9bd49c6e-9d44-4061-8409-46e0e4825a78,Solace Hyper Mobiles 1,electronics,mobiles,7476.61,85,2023-11-12 22:42:17
+d96251fc-35c1-45ed-83fe-69db1e742422,Lumina Zen Headphones 1,electronics,headphones,1664.06,346,2024-05-11 19:04:18
+bebafc33-3a5b-402b-9e10-7c4cdcee9b1f,Pulse Edge Headphones 1,electronics,headphones,4316.28,140,2022-06-29 13:29:33
+fc2f373f-02fb-4a73-af4d-be721b5577cd,Allied Drift Menswear 1,fashion,menswear,203.48,149,2024-07-28 19:41:25
+3816836d-3f73-468f-bb59-1d0f46ffd9d1,Ivory Thread Drift Womenswear 1,fashion,womenswear,440.65,441,2023-02-15 08:01:59
+d19548ee-7f04-4412-af53-65767488a74c,Ivory Thread Heritage Accessories 1,fashion,accessories,85.48,329,2023-10-21 06:02:57
+e1086682-92b4-44cf-aa06-311e7bd28f18,Urban Loom Heritage Footwear 1,fashion,footwear,243.59,399,2022-07-23 11:18:37
+d5819cac-b19d-4e5d-bc9e-9ccfb06576b9,Saffron Lane Kinetic Footwear 1,fashion,footwear,386.54,366,2023-10-27 15:19:26
+c76a601f-6ead-44d1-8c11-66687813c8fb,Urban Loom Heritage Menswear 1,fashion,menswear,122.68,284,2022-02-26 05:13:34
+8f599dea-cb61-49a1-a75b-497c054a0537,Allied Vista Footwear 1,fashion,footwear,122.05,225,2022-07-18 05:30:48
+d1795cad-ce95-4034-a354-f68e81380a4d,Ivory Thread Monsoon Menswear 1,fashion,menswear,51.14,465,2023-07-11 02:05:42
+ca6f04f6-6d9e-48af-8ad9-cb772a95619c,Saffron Lane Heritage Womenswear 1,fashion,womenswear,256.78,404,2024-05-19 23:58:13
+0694bfa5-dd5a-4315-a2fd-76ad2551db64,Allied Drift Accessories 1,fashion,accessories,180.14,447,2022-09-10 16:30:17
+c1b6fdab-847e-49ab-965a-19e77c4aa818,Northstone Heritage Womenswear 1,fashion,womenswear,142.54,382,2023-06-01 06:46:18
+ffa1135a-8bfe-467d-944a-02800c0d9c73,Saffron Lane Monsoon Accessories 1,fashion,accessories,129.33,408,2024-12-25 15:32:45
+bfc95197-bf4f-450a-b2ae-c70710107acf,Northstone Heritage Menswear 1,fashion,menswear,333.47,118,2022-11-07 06:36:51
+b6ef5546-7a80-48d3-ae0c-2591c6681a93,Ivory Thread Monsoon Accessories 1,fashion,accessories,174.15,119,2022-02-07 00:16:26
+03f16528-c15a-487a-9ab2-d13211f08c83,Northstone Monsoon Womenswear 1,fashion,womenswear,207.58,447,2022-04-19 02:11:35
+6c18dbb0-1d27-45b1-85b0-be83eeb3876c,Ivory Thread Vista Footwear 1,fashion,footwear,286.93,352,2024-04-13 05:34:17
+017d1c7f-916b-4326-a54b-e71ef7dc9113,Urban Loom Heritage Footwear 2,fashion,footwear,196.18,96,2024-06-21 03:57:14
+7b0febae-b97f-445e-8192-8222968178d3,Urban Loom Heritage Footwear 3,fashion,footwear,415.96,227,2023-06-22 06:08:58
+48f12d3b-e4c2-4558-85a5-c65315df3fe1,Northstone Vista Footwear 1,fashion,footwear,360.16,64,2023-08-22 15:07:35
+4ca0366c-bb63-4265-82c7-5033be84705a,Ivory Thread Heritage Womenswear 1,fashion,womenswear,310.77,5,2024-03-18 22:02:07
+97cd796c-b34f-495d-93bb-ed448c50a59c,Ivory Thread Kinetic Womenswear 1,fashion,womenswear,70.85,490,2024-10-29 02:34:32
+fd85f545-234f-4e25-ac83-31540d351ee5,Allied Monsoon Footwear 1,fashion,footwear,106.67,373,2023-04-12 18:49:32
+b48d455b-932e-4d2b-92fb-fbd53dadc102,Northstone Monsoon Footwear 1,fashion,footwear,288.71,361,2023-04-05 12:49:29
+a9106a7f-eee3-48e5-9c0d-f53feddd6bd1,Saffron Lane Kinetic Womenswear 1,fashion,womenswear,273.47,351,2022-09-28 14:12:34
+b7bcc307-41ec-40d2-ac8f-01e9aa9cbe6d,Northstone Vista Footwear 2,fashion,footwear,25.26,160,2023-03-22 22:55:07
+e767e30b-25ca-40c5-a999-4d8875dfd821,Northstone Vista Womenswear 1,fashion,womenswear,422.58,340,2023-05-16 20:19:19
+c4f18d1b-8853-44c3-a22d-879bcec45c66,Northstone Kinetic Accessories 1,fashion,accessories,165.05,266,2024-01-06 07:39:34
+337f799d-5688-4e1e-bbc5-8755a02f4e1c,Urban Loom Monsoon Womenswear 1,fashion,womenswear,362.8,344,2024-09-10 11:44:43
+27b02356-46d9-4507-97aa-7e28d476fe4c,Urban Loom Drift Footwear 1,fashion,footwear,228.43,120,2022-11-06 14:06:07
+3fe9ace0-7f00-4b99-9f35-bfaa7b934b8b,Urban Loom Heritage Womenswear 1,fashion,womenswear,185.46,248,2024-08-07 19:56:43
+39cbc7c4-cdb1-4f5a-a266-1ce7366b04c2,Northstone Kinetic Menswear 1,fashion,menswear,437.72,299,2022-10-30 07:04:15
+1a90f154-035a-4d09-920e-5a9d39e2da33,Northstone Kinetic Accessories 2,fashion,accessories,184.89,80,2024-10-16 09:36:55
+84c420f4-5db9-4531-86f8-629f029f47b0,Urban Loom Kinetic Menswear 1,fashion,menswear,168.41,95,2024-12-17 07:28:17
+94ea1a5e-92dc-4c58-9d91-7609c07f4e8d,Urban Loom Vista Accessories 1,fashion,accessories,188.31,474,2022-07-08 18:34:35
+87efbb2d-db6e-4ce0-b8bc-488973d82a03,Saffron Lane Kinetic Accessories 1,fashion,accessories,373.08,291,2024-07-14 06:04:17
+eca2810c-f3c8-4732-8dc5-f81ce6df836e,Northstone Vista Footwear 3,fashion,footwear,355.81,223,2024-05-01 08:08:48
+af027080-518e-4230-842e-1bab480713e6,Saffron Lane Kinetic Accessories 2,fashion,accessories,319.95,137,2023-01-20 07:45:55
+15942b76-261a-4733-b68c-7d775490c7b9,Allied Kinetic Footwear 1,fashion,footwear,435.74,127,2023-03-03 19:44:05
+eb45b9d0-4d2d-4312-8bf5-877bb29c3f8b,Urban Loom Monsoon Accessories 1,fashion,accessories,178.67,144,2023-06-06 23:18:13
+9eb25f05-84b1-40c2-90a9-2ede386e29a0,Allied Heritage Footwear 1,fashion,footwear,115.68,82,2022-12-26 12:03:10
+00047992-7b03-4c29-8835-aba1e340a75b,Saffron Lane Drift Accessories 1,fashion,accessories,67.09,217,2023-09-26 10:24:21
+64aed117-ae0e-4f48-adce-aa7f7ee44fe6,Allied Kinetic Footwear 2,fashion,footwear,297.48,36,2022-11-18 13:20:41
+6cb0bbc9-8c3d-4955-b3f3-b29ea830c3e4,Northstone Vista Accessories 1,fashion,accessories,37.8,443,2024-06-13 13:17:30
+7c25e4cc-9f07-4639-8b42-55c281e1af8e,Northstone Heritage Accessories 1,fashion,accessories,255.52,157,2023-08-30 01:45:21
+fd72f151-f6da-4b77-9d5c-0afb3d07cd91,Allied Vista Accessories 1,fashion,accessories,420.34,464,2022-12-09 20:16:42
+8814dcda-3bf3-4e6d-96f8-3fcd7f8d3d1f,Saffron Lane Monsoon Accessories 2,fashion,accessories,310.62,253,2022-02-15 08:07:25
+95453b4d-7404-405c-99ff-63affbcd3910,Ivory Thread Kinetic Accessories 1,fashion,accessories,133.16,435,2023-12-28 07:34:03
+8b90517c-0cb7-4329-8a5a-478dbb100f8d,Allied Vista Womenswear 1,fashion,womenswear,42.67,469,2023-09-05 08:08:23
+c303e1b2-1608-4bf3-8456-5d630d15e554,Urban Loom Kinetic Menswear 2,fashion,menswear,113.93,448,2023-12-19 11:21:56
+58b28c63-8a6d-4c71-a727-edcb47d0f0eb,Urban Loom Monsoon Womenswear 2,fashion,womenswear,273.44,172,2022-11-26 01:16:02
+841f5cbe-c316-488d-918f-1a78547fe8ef,Ivory Thread Monsoon Accessories 2,fashion,accessories,273.46,147,2023-10-18 03:04:33
+b3c7db4d-89bf-40a1-93b8-1ee807bb2bea,Urban Loom Kinetic Footwear 1,fashion,footwear,37.7,388,2024-04-18 04:59:59
+df382836-60ac-4029-9d3a-f42f9f9bec70,Ivory Thread Drift Menswear 1,fashion,menswear,69.96,404,2024-10-09 17:10:29
+ebdb3d90-9672-463f-b4dc-d39b07236157,Urban Loom Drift Menswear 1,fashion,menswear,155.65,434,2022-02-01 21:49:19
+ee04ae57-aee9-4039-831f-02cf47e6f033,Saffron Lane Drift Womenswear 1,fashion,womenswear,335.35,347,2022-06-27 22:44:51
+d9ac73ce-32d4-41e2-a4dd-4a2941b73d1b,Northstone Monsoon Womenswear 2,fashion,womenswear,266.75,90,2024-07-30 11:19:00
+e9441e8a-9eaf-4274-b5d6-d35d3a3befd2,Saffron Lane Monsoon Menswear 1,fashion,menswear,95.84,301,2022-02-10 03:21:39
+c9298593-2925-4556-bd8a-b77cb72d5879,Allied Kinetic Footwear 3,fashion,footwear,284.95,487,2022-11-05 08:16:12
+9f1c2b9d-65e9-4041-8cf6-7bb9eabe2720,Allied Drift Menswear 2,fashion,menswear,91.78,361,2023-04-14 17:49:02
+3f948bed-b650-42d6-a73d-138b99b52883,Allied Heritage Menswear 1,fashion,menswear,252.54,277,2023-10-28 17:05:23
+83cdfd92-cb23-4af9-8c9c-0f0fc03afb2f,Urban Loom Vista Footwear 1,fashion,footwear,449.37,179,2022-01-20 21:42:22
+06b15d09-c9f9-4c90-a8a0-913a8e265ade,Northstone Heritage Accessories 2,fashion,accessories,309.11,496,2023-07-17 21:20:55
+88e2a273-bbe5-4b14-8d51-fa4ed573fe82,Saffron Lane Kinetic Accessories 3,fashion,accessories,140.43,380,2024-03-21 18:07:42
+0d37cfb2-4f7d-439f-ab45-bb383d652745,Allied Vista Footwear 2,fashion,footwear,341.86,243,2023-11-08 21:23:38
+8d72600d-00a6-4afe-ae67-1e7b62974e32,Ivory Thread Drift Footwear 1,fashion,footwear,81.79,147,2023-12-02 13:07:00
+f950c663-6bac-456c-9b1c-a7023b81df6e,Northstone Vista Womenswear 2,fashion,womenswear,424.98,347,2023-08-12 23:44:43
+5e69d642-6bf2-4f95-bb9c-b7c38cea703f,Urban Loom Kinetic Footwear 2,fashion,footwear,238,98,2024-01-28 15:10:44
+41d57cb7-3161-4223-8359-16c9bfb0ac31,Ivory Thread Monsoon Womenswear 1,fashion,womenswear,248.04,148,2024-07-15 08:16:10
+6aa8e4ac-84e8-4e9a-aa6f-eb7a3d9beb02,Allied Heritage Footwear 2,fashion,footwear,363.57,490,2022-10-25 01:05:59
+3f2dda91-a2a6-4753-bbd8-369cc97284ef,Saffron Lane Kinetic Menswear 1,fashion,menswear,345.19,289,2023-01-09 13:55:32
+07c7ddfb-3e6c-4325-9413-a73efd1e4fae,Northstone Kinetic Accessories 3,fashion,accessories,36.3,52,2023-04-03 07:53:51
+363b8f63-635c-49a1-b172-ee4b9e28cbf7,Northstone Drift Womenswear 1,fashion,womenswear,225.67,344,2024-06-22 15:57:49
+8e1b5d3a-287d-4f79-b753-6f520753434d,Northstone Vista Footwear 4,fashion,footwear,372.94,181,2023-10-24 05:55:54
+d1a42ebd-c846-4655-8ad1-070d025f37ab,Ivory Thread Kinetic Footwear 1,fashion,footwear,202.54,161,2023-01-26 19:00:30
+02002abc-5b1c-430d-a800-87be48ec29b5,Urban Loom Drift Womenswear 1,fashion,womenswear,231.79,66,2024-04-12 16:27:23
+dcc18645-0c56-4776-b772-cd2aeecf5c68,Madura Living Element Kitchenware 1,home,kitchenware,333.61,383,2024-01-23 10:13:54
+fcd18fc2-1e79-4df2-a112-a64067957ae5,Oak & Arc Studio Decor 1,home,decor,304.43,156,2022-12-20 15:11:13
+2fe1d6f0-86a4-406c-8275-4841c59036fb,Madura Living Haven Decor 1,home,decor,68.54,367,2024-04-09 23:59:58
+11b967d8-ef4b-4cd7-abf9-7270e186daa4,Oak & Arc Studio Furniture 1,home,furniture,121.46,288,2023-03-31 01:38:36
+b796eb12-4f34-403b-a033-ad98a5db94ed,Madura Living Sierra Kitchenware 1,home,kitchenware,184.46,451,2022-01-20 07:17:14
+9fffb455-969f-4b02-8dda-3b1537f0efa1,Oak & Arc Sierra Kitchenware 1,home,kitchenware,677.46,230,2023-06-14 12:26:16
+da079a93-7287-4809-89f5-83c2bee66514,HarborLeaf Haven Furniture 1,home,furniture,676.16,63,2022-04-12 18:10:47
+3b98acc9-ca11-489e-a105-abc0fcccc4bd,Casa Meridian Studio Decor 1,home,decor,806.31,327,2024-12-02 14:44:56
+29696c3f-617e-434e-92ba-1eb65fbfa29d,Madura Living Element Furniture 1,home,furniture,787.72,490,2023-04-18 05:48:32
+babbbd94-428e-45ab-b829-3556e874e8ce,Madura Living Studio Furniture 1,home,furniture,781.47,396,2023-10-09 18:05:31
+f26b28e9-2174-4724-afb7-369047a147d8,Madura Living Breeze Kitchenware 1,home,kitchenware,548.56,235,2023-11-19 23:50:07
+546d20c1-863e-4490-bc64-4bb00ffabecd,Casa Meridian Haven Decor 1,home,decor,795.31,322,2022-04-04 19:32:54
+a6b962af-f1dc-4efa-af5a-8b57afe0661c,HarborLeaf Element Kitchenware 1,home,kitchenware,326.59,140,2024-10-23 04:32:44
+c38824f4-9fe8-430a-a699-d75732c31f24,Madura Living Element Furniture 2,home,furniture,277.82,287,2022-04-27 20:37:16
+a2e58fc3-d14d-4bb6-92f6-4c27ecf7a021,HarborLeaf Sierra Furniture 1,home,furniture,640.48,357,2024-07-11 16:53:09
+c5830d79-4f85-44ee-92ba-c586f61184d6,Oak & Arc Studio Decor 2,home,decor,353.4,152,2023-03-16 10:30:17
+bee93a7f-0ab1-4d65-8115-7486ae2e971b,Casa Meridian Studio Kitchenware 1,home,kitchenware,355.95,478,2023-02-16 05:18:40
+e25a75ea-bc59-4598-9894-434dc3eb8455,Madura Living Sierra Kitchenware 2,home,kitchenware,200.43,283,2022-12-16 11:30:13
+d040df4e-d156-4b55-83b3-824753f7a9f9,Madura Living Haven Kitchenware 1,home,kitchenware,236.43,41,2022-04-03 21:28:02
+88b414ba-a90b-4e9d-b07a-00d31dca976d,Oak & Arc Breeze Furniture 1,home,furniture,796.07,476,2023-03-25 14:10:57
+216989e7-8112-4644-ad69-c43550209eb8,HarborLeaf Sierra Decor 1,home,decor,448.57,363,2023-09-18 12:36:18
+89ace046-f856-4892-bf9c-e7a612f6ffa9,Casa Meridian Sierra Decor 1,home,decor,155.43,311,2022-03-04 04:07:03
+0172608e-d5eb-4de6-a8bd-1537b241b21a,Oak & Arc Breeze Decor 1,home,decor,378.16,18,2022-05-23 02:54:47
+5c244ce3-e3f4-4b66-a043-c6f1bb80df3a,HarborLeaf Haven Furniture 2,home,furniture,805.29,25,2022-09-30 09:35:01
+a06b3a60-f1a6-42dc-b2b6-30e345043862,Casa Meridian Haven Decor 2,home,decor,287.88,304,2023-11-09 08:58:12
+27b69493-ad84-4290-bd26-4995490b1f03,Casa Meridian Studio Kitchenware 2,home,kitchenware,666.05,183,2023-09-27 14:19:13
+818c799a-16a8-45f6-aa7b-4295bf63961a,Oak & Arc Studio Decor 3,home,decor,260.79,173,2023-10-02 17:14:28
+65078b0a-0d28-4371-b637-edfe5af58a7d,Casa Meridian Haven Kitchenware 1,home,kitchenware,574.88,421,2024-05-04 19:05:17
+093ece80-3060-499c-b4c9-90217a2adcd3,Casa Meridian Studio Furniture 1,home,furniture,462.24,134,2023-05-18 10:31:13
+931b41dc-aa1e-4b15-b71e-69ee3c48eeb2,Casa Meridian Breeze Furniture 1,home,furniture,51.5,341,2024-04-23 03:21:19
+d3e1b4b9-5281-4931-9760-2bce4d46f6c1,Casa Meridian Studio Decor 2,home,decor,295.86,270,2023-07-17 06:06:43
+80112e5b-00c6-43e5-bead-03d77de1de57,Casa Meridian Sierra Kitchenware 1,home,kitchenware,117.64,109,2023-02-20 02:34:41
+2f86b9c5-5d17-4e4f-9e8b-d1ed4fdfcc28,Madura Living Haven Kitchenware 2,home,kitchenware,624.24,455,2024-12-20 22:38:52
+b5e0a611-8f30-40b5-8d48-da4d34977373,HarborLeaf Studio Decor 1,home,decor,848.06,414,2023-01-07 23:39:21
+b52fbf4e-52f0-4e4c-a152-6eca087fab5e,Madura Living Haven Kitchenware 3,home,kitchenware,771.99,12,2024-05-08 03:25:29
+243e4970-30c8-4885-970e-6c85f4c96268,HarborLeaf Element Decor 1,home,decor,198.71,241,2022-07-02 17:27:19
+d0306c60-237d-4358-bde7-cf563a40b32f,Madura Living Sierra Kitchenware 3,home,kitchenware,432.54,265,2023-03-02 00:01:08
+4415bb89-bbb7-42cb-96d4-81ce10c677a6,Casa Meridian Sierra Decor 2,home,decor,369.46,238,2024-05-06 14:39:06
+25fd0f99-6f4b-4b28-a8ff-3de50ef57d89,Casa Meridian Element Furniture 1,home,furniture,835.61,265,2022-08-01 07:23:59
+b619180a-233c-4641-96f3-01117b722f81,Oak & Arc Sierra Furniture 1,home,furniture,495.48,483,2024-02-28 23:49:57
+054ef676-b2d6-430b-bfdf-e32ea800a704,HarborLeaf Haven Decor 1,home,decor,441.32,433,2024-07-01 00:37:27
+37f541d6-6713-47c7-afd2-cc76330b6443,Casa Meridian Element Kitchenware 1,home,kitchenware,635.29,280,2024-01-23 15:33:20
+5dba658d-30c1-41d4-9b9f-51e8a59b2f34,Oak & Arc Breeze Decor 2,home,decor,762.28,198,2023-12-09 14:28:39
+175e52aa-d9d1-4875-b595-256cc72b36dd,Madura Living Element Decor 1,home,decor,799.46,201,2022-12-30 01:50:20
+1820949c-f512-48e0-a0a5-49cbfc7e84a6,HarborLeaf Haven Decor 2,home,decor,669.93,366,2023-08-16 11:19:38
+b6399401-f52e-4f66-81ca-d2e5863a3359,Aurum Aura Haircare 1,beauty,haircare,27.13,69,2024-02-20 12:46:16
+7ef8dd34-ff83-43ce-93ac-ef18a934bef9,Serene Pure Cosmetics 1,beauty,cosmetics,159.27,56,2024-03-28 06:52:39
+d9144b35-71b7-493d-8cd6-bdfed1156d48,Mirai Radiant Haircare 1,beauty,haircare,149.34,450,2024-10-14 10:01:01
+8325847d-8ee4-4d80-b3f0-84439dd50020,Mirai Aura Skincare 1,beauty,skincare,101.84,178,2024-08-26 10:47:40
+09a34260-c5a6-43b9-9a06-b9ab5e1685a9,Veda Glow Pure Cosmetics 1,beauty,cosmetics,122.66,441,2024-11-13 19:52:10
+c330c964-bb23-4a3a-bb5c-8985aeeef1f5,Veda Glow Bloom Cosmetics 1,beauty,cosmetics,174.89,451,2024-04-20 16:32:20
+48312ca3-5bb8-4133-bf72-26c74839ff5b,Mirai Radiant Skincare 1,beauty,skincare,109.16,121,2022-05-21 15:35:08
+604a139e-47cd-4a09-87a3-ac843b1f01c2,Mirai Pure Haircare 1,beauty,haircare,160.38,90,2024-12-14 08:14:19
+a3813880-225a-434c-b0cb-6ca1922bef4f,Mirai Pure Haircare 2,beauty,haircare,121.29,412,2022-03-29 10:16:35
+d0bc802a-b816-4071-994d-68e7b4b08160,Serene Bloom Haircare 1,beauty,haircare,156.12,79,2023-01-15 14:20:24
+084feb3f-690c-434e-bfaf-91e4e0147147,Veda Glow Pulse Cosmetics 1,beauty,cosmetics,74,92,2022-09-30 05:03:31
+62b4e653-933c-49a2-84a6-4903313d4ef5,Veda Glow Pulse Skincare 1,beauty,skincare,93.91,259,2024-06-25 03:40:25
+1667518a-ff2e-47d9-88af-1ed1c93f9f33,Aurum Aura Skincare 1,beauty,skincare,98.22,240,2023-02-01 21:16:10
+ff33e034-190d-46d5-9713-e43b447b928c,Mirai Aura Cosmetics 1,beauty,cosmetics,109.25,351,2024-04-29 08:39:20
+e946f444-dfa9-4bf6-a264-ed1ca3eb697f,Mirai Aura Skincare 2,beauty,skincare,128.23,305,2023-04-10 23:16:43
+6d33f06e-c243-4f44-9345-d34a4b595b55,Veda Glow Bloom Cosmetics 2,beauty,cosmetics,164.69,437,2023-04-15 13:54:44
+a092cf0a-077b-4810-8b83-ab4df73466e1,Veda Glow Aura Skincare 1,beauty,skincare,49.94,126,2023-08-16 16:17:29
+78cf425d-106a-4dd5-84cc-04482bb932e6,Serene Pulse Cosmetics 1,beauty,cosmetics,111.95,363,2023-04-04 21:00:01
+511a187b-7165-4893-9587-0050111a5a2f,Veda Glow Bloom Skincare 1,beauty,skincare,17.65,294,2024-12-01 14:27:29
+30d8bce0-2d87-41e2-8340-9ceb4fbbd64e,Mirai Pulse Cosmetics 1,beauty,cosmetics,177.76,431,2023-03-21 20:05:28
+896a12d5-b370-4160-ad40-6a2cd8d0447c,Serene Radiant Skincare 1,beauty,skincare,77.3,322,2023-01-25 14:02:39
+c5ab9e82-6b56-4428-ac5d-6408e56da84e,Aurum Pure Cosmetics 1,beauty,cosmetics,27.91,163,2023-11-17 01:04:47
+d18852de-2458-442c-8d10-a0b54c250a61,Serene Radiant Skincare 2,beauty,skincare,44.53,470,2023-04-04 16:30:54
+b86b206e-3cef-4344-a211-ddd6cfd19f9b,Veda Glow Radiant Haircare 1,beauty,haircare,80.79,72,2024-04-18 04:34:43
+d04736a9-2206-4079-93ac-22b72d66e79f,Serene Radiant Haircare 1,beauty,haircare,99.2,472,2024-01-19 18:35:20
+2ab89a95-e376-4b81-b791-4226f00bd554,Serene Pure Haircare 1,beauty,haircare,168.46,498,2022-04-28 05:21:49
+9799a9bc-48b3-4814-9de6-6c337ccc8dd2,Aurum Aura Skincare 2,beauty,skincare,134.85,51,2023-09-06 04:48:21
+d465d610-a0f2-4d19-bbed-34dcf4d5b754,Serene Pulse Skincare 1,beauty,skincare,55.49,237,2023-07-27 19:52:09
+72f3ff07-dfc3-4685-a8c8-ec3cb1f10cac,Serene Pulse Cosmetics 2,beauty,cosmetics,139.85,426,2024-09-19 04:50:31
+067e175e-5c7e-4d50-a18d-90af42d4b045,Mirai Radiant Haircare 2,beauty,haircare,169.49,17,2024-08-20 16:22:52
+845f9974-cc3a-4289-a50b-8a4bce18c338,Serene Pulse Cosmetics 3,beauty,cosmetics,87.53,336,2022-04-09 10:54:07
+78c2f172-e204-43ce-ab06-381ac985481f,Veda Glow Bloom Cosmetics 3,beauty,cosmetics,148.79,64,2022-08-06 09:15:53
+8fffe06f-c9a3-49bc-a6c0-a7b724b9da44,Mirai Bloom Skincare 1,beauty,skincare,176.42,64,2022-06-01 05:34:49
+fb3dd1c7-c80d-45dd-8139-b9c8066b8e80,Aurum Aura Skincare 3,beauty,skincare,163.64,194,2024-11-07 19:32:16
+dfe4c3f8-696c-4473-ad9a-e393e3bff368,Veda Glow Pulse Cosmetics 2,beauty,cosmetics,65.63,458,2023-10-07 18:00:58
+45d0199a-2a82-419f-882d-32c38df1c0a9,Mirai Aura Cosmetics 2,beauty,cosmetics,148.73,485,2023-03-11 19:28:06
+1030dc23-1aba-4914-90b1-da8bb38d6b18,Serene Radiant Skincare 3,beauty,skincare,160.28,232,2023-01-03 00:55:01
+bb0cd099-1a90-4e8c-806b-08808f91a6d6,Mirai Bloom Haircare 1,beauty,haircare,132.53,36,2023-09-11 17:43:18
+dfb60e2a-4229-4dd0-8b33-619cd9d4291a,Aurum Pure Haircare 1,beauty,haircare,164,51,2024-10-26 19:48:34
+ffde5195-1f6d-4989-bd97-898c595a5a83,Mirai Pure Skincare 1,beauty,skincare,124.28,129,2022-07-15 20:46:57
+1e0d5f1d-d06d-4fb5-9181-47c1944ce55f,Aurum Pure Cosmetics 2,beauty,cosmetics,82.88,305,2022-12-02 17:14:59
+5bf69c51-c009-43f7-958f-e0305515adad,Serene Radiant Skincare 4,beauty,skincare,15.92,146,2022-08-14 00:21:31
+d4516047-da1d-43f0-aeca-1d37dcad0bd6,Serene Radiant Skincare 5,beauty,skincare,51.02,343,2022-02-10 07:09:13
+babd2b83-dde2-4e09-9689-5ba13133904c,Mirai Bloom Skincare 2,beauty,skincare,92.96,306,2023-05-19 05:04:30
+a25f8297-4257-4c20-88cb-c1b4fa7188c7,Aurum Bloom Skincare 1,beauty,skincare,32.17,69,2023-10-17 04:32:49
+44f01dc8-9ace-4638-b064-24f1abdf95a1,StridePro Velocity Athletic Wear 1,sports,athletic wear,664.22,234,2023-07-17 15:47:28
+8e69723d-8fc7-4db4-b58d-2b7811d726cc,StridePro Catalyst Athletic Wear 1,sports,athletic wear,700.39,118,2024-08-13 18:50:42
+0924966e-2374-4f77-971b-b8ed0d9d39e5,Nimbus Trails Catalyst Fitness 1,sports,fitness,883.23,498,2022-02-18 15:22:48
+263f284e-913a-4d26-8c2a-9321121ab86e,RapidFlex Catalyst Fitness 1,sports,fitness,598.72,356,2022-06-17 23:06:31
+660e05b6-9f6a-4e3f-b7f3-fc2a00ba1fab,RapidFlex Velocity Outdoor 1,sports,outdoor,145.89,169,2024-08-03 04:58:18
+71dbc8bc-ab7e-42f5-99a2-38e043269633,StridePro Summit Fitness 1,sports,fitness,400.46,324,2024-09-10 16:48:39
+a626b364-7601-4a24-87e9-fac95fb26e1f,Nimbus Trails Catalyst Athletic Wear 1,sports,athletic wear,823.01,276,2023-04-04 08:35:05
+b34896e5-104f-4c91-8515-ae5f04b0871b,RapidFlex Velocity Outdoor 2,sports,outdoor,189.96,441,2024-10-14 07:28:05
+0dd2a4fd-caee-4fa5-b354-3591c57620d6,PeakForge Catalyst Athletic Wear 1,sports,athletic wear,631.86,459,2022-12-22 04:51:28
+f95b1bfb-4893-4dc7-918d-4e62fa685b44,Nimbus Trails Catalyst Outdoor 1,sports,outdoor,562.62,217,2022-05-28 23:03:25
+460207c3-c8a7-4da6-9e0d-77ca28fde44d,RapidFlex Pulse Outdoor 1,sports,outdoor,911.77,135,2023-08-05 16:57:12
+22b7e788-7dd4-4724-852c-de89a6743dc2,RapidFlex Velocity Fitness 1,sports,fitness,159.57,430,2022-05-13 20:36:50
+6a6aaa0e-899a-43d4-a48f-3a34a6add1e5,RapidFlex Velocity Fitness 2,sports,fitness,528.43,420,2022-07-22 09:03:20
+adc11057-d33f-4b0c-8912-663d899b3910,StridePro Momentum Athletic Wear 1,sports,athletic wear,776.08,292,2023-05-28 08:05:34
+959600ad-a953-43c2-9ccd-ee943c06d7b7,StridePro Catalyst Athletic Wear 2,sports,athletic wear,503.46,452,2024-10-30 19:41:32
+1907b172-cd9d-4fe4-90b3-7eddd9a0ffec,StridePro Pulse Outdoor 1,sports,outdoor,826.96,164,2023-07-01 12:19:12
+da39b1c2-a3c2-4b77-a5de-b9daceab0a36,PeakForge Summit Fitness 1,sports,fitness,900.79,251,2022-12-15 14:27:16
+727914ae-d198-469d-a9eb-a8bba5ea58a1,Nimbus Trails Momentum Fitness 1,sports,fitness,521.76,63,2023-03-09 23:46:32
+e7542ff4-86f7-4291-a7d7-fc3792921790,PeakForge Catalyst Athletic Wear 2,sports,athletic wear,775.26,397,2024-08-24 01:32:36
+bf560f04-b9e7-4678-811e-5c29edabd07f,StridePro Momentum Athletic Wear 2,sports,athletic wear,902.23,429,2024-12-13 12:28:47
+b12afb77-e44a-43b3-8f6d-f9b65d0d7e6a,StridePro Summit Outdoor 1,sports,outdoor,398.18,364,2023-04-26 05:47:02
+31a3d699-4cd9-4a7a-bc7f-5c8ce88d62eb,Nimbus Trails Velocity Outdoor 1,sports,outdoor,277.77,450,2022-08-11 18:48:09
+8699be93-3ed8-4304-97c1-22078487b9d3,RapidFlex Velocity Athletic Wear 1,sports,athletic wear,225.95,384,2024-09-10 20:21:48
+8ecb7999-5c9b-410b-8d4c-a2b14b1546fa,StridePro Momentum Fitness 1,sports,fitness,321.97,197,2023-10-15 10:29:23
+a036231d-34c9-4c9b-8808-9519b72b8b7a,Nimbus Trails Summit Outdoor 1,sports,outdoor,525.03,164,2023-05-20 03:52:14
+afcae0a4-dc67-44a8-81f6-bf5d2132b165,StridePro Velocity Athletic Wear 2,sports,athletic wear,243.92,85,2024-08-18 00:40:37
+f8ddb9e3-6071-4bea-b819-2ecf5bae80b0,StridePro Pulse Fitness 1,sports,fitness,620.79,343,2023-10-21 22:24:59
+0b433e8b-7082-481a-8fbb-7b5799f0763a,RapidFlex Catalyst Outdoor 1,sports,outdoor,398.04,115,2024-03-07 03:39:17
+fb1972ca-2916-4b11-88df-a1fc9a50a0c9,Nimbus Trails Catalyst Fitness 2,sports,fitness,185.34,150,2024-11-19 19:47:44
+6890fcc2-bc8a-4171-9902-7695c316eb29,RapidFlex Momentum Athletic Wear 1,sports,athletic wear,914.42,162,2022-03-12 19:16:55
+f083fcc1-d094-4bb3-917d-60127bf2acc3,Spiceway Select Snacks 1,grocery,snacks,9.25,109,2023-04-14 11:43:41
+8a743f41-15b2-4dfc-98da-f0da9e3e1e55,Daily Roots Classic Snacks 1,grocery,snacks,55.42,172,2022-07-06 15:20:26
+26fb3bbf-39ad-4c9a-9fc8-c847818e31b1,Spiceway Pure Snacks 1,grocery,snacks,36.78,71,2023-08-14 21:09:39
+67a26562-f0df-4975-83fe-bff068476d8d,Daily Roots Classic Staples 1,grocery,staples,19.8,208,2022-03-07 23:08:33
+0d96771a-f258-4b15-acbf-10537a307ddc,Harvest Bay Pure Beverages 1,grocery,beverages,20.75,446,2023-05-02 13:44:46
+4276329f-25bf-4152-8726-6be8a17a288e,Spiceway Pure Staples 1,grocery,staples,112.88,218,2023-03-26 23:54:33
+923da155-92b8-4ea7-8117-b0fd201eafc7,Spiceway Select Snacks 2,grocery,snacks,61.21,92,2024-08-18 11:22:48
+b286e617-8047-4fc4-b961-d96a424886ec,Green Trail Select Beverages 1,grocery,beverages,79.55,437,2022-06-14 16:51:49
+5cf77ece-eeeb-46d8-aaa3-d1e1281778b2,Spiceway Pure Snacks 2,grocery,snacks,93.84,45,2023-09-08 01:15:06
+ab651298-203b-4424-976b-368a4d74f63f,Green Trail Origin Beverages 1,grocery,beverages,62.56,403,2022-09-19 10:26:30
+3902c862-49d1-4d99-ad8b-a830168fe522,Harvest Bay Origin Snacks 1,grocery,snacks,65.24,184,2024-09-29 21:51:29
+1772ef40-bf6c-4a5f-adc5-f2c6afce52c8,Daily Roots Select Snacks 1,grocery,snacks,31.99,136,2022-11-03 16:49:33
+a0dd0545-3e2f-4628-8b0d-6db409261c38,Daily Roots Select Snacks 2,grocery,snacks,37.02,492,2024-09-02 17:37:37
+bf7a8b75-b560-4670-ab32-eab92bfb75fa,Spiceway Pure Beverages 1,grocery,beverages,119.59,478,2024-05-27 03:46:44
+a86a4e2a-1670-4d16-aef3-3334da7f7f07,Green Trail Classic Staples 1,grocery,staples,32.73,230,2022-04-17 07:53:46
+6854fc63-b1fa-455d-9dda-db6a7833eab5,Spiceway Classic Beverages 1,grocery,beverages,53,307,2022-03-29 12:14:54
+8ff5db4c-eae8-4e76-a7cf-11ab65b5337e,Harvest Bay Classic Beverages 1,grocery,beverages,83.65,236,2022-02-28 16:05:59
+6d78ab28-19ab-47dc-83f4-da3eaf58f10c,Green Trail Classic Snacks 1,grocery,snacks,20.57,335,2022-05-21 12:29:51
+105f4204-f0e3-4bfc-a6e8-752ac9a71d49,Spiceway Pure Staples 2,grocery,staples,103.08,288,2022-03-05 23:26:15
+3afca407-6b5b-4fe8-8489-078f5063dd9b,Daily Roots Classic Beverages 1,grocery,beverages,107.12,248,2024-02-19 02:19:40
+07d054be-24e8-4262-99b6-1b2e3ed623ce,Harvest Bay Pure Snacks 1,grocery,snacks,24.95,420,2023-06-18 18:17:17
+a3d7c850-eca3-460d-bd13-e43192bdce60,Harvest Bay Origin Staples 1,grocery,staples,14.41,131,2023-11-12 06:48:40
+f3f151df-9c6c-4c9a-887a-25841921f6c7,Daily Roots Classic Beverages 2,grocery,beverages,69.08,474,2023-03-16 17:02:13
+415e8568-e4e6-4228-925f-45fcb5a28dc4,Spiceway Classic Beverages 2,grocery,beverages,119.23,311,2022-03-23 14:19:40
+0f43952a-bfc4-4fe7-804e-2d50077b136f,Green Trail Select Staples 1,grocery,staples,62.01,53,2024-05-17 00:22:34
+76b1ad40-b180-4419-9005-63582cc818eb,Spiceway Classic Staples 1,grocery,staples,49.28,375,2024-10-17 04:28:59
+3034c6df-ed21-49dc-9eb5-5fd1d0b4836c,Daily Roots Classic Staples 2,grocery,staples,21.35,303,2024-10-28 03:15:09
+46231f8f-12f4-46b8-ab9c-ea0fcfe8a6c2,Green Trail Classic Snacks 2,grocery,snacks,115.48,362,2024-10-25 20:11:16
+00996980-e7f1-45fc-bfe4-6c8e3e0ef145,Daily Roots Select Beverages 1,grocery,beverages,58.72,291,2023-08-09 09:37:20
+5b86a872-0c3a-4810-bd16-d009c4eb2471,Green Trail Origin Staples 1,grocery,staples,117.79,364,2024-12-01 00:06:08
+d3f9ec66-f402-4051-b185-07a2a291ec60,Harvest Bay Pure Staples 1,grocery,staples,91.31,190,2022-01-29 13:41:01
+dd4a06c2-e7a8-4695-92a7-55c4c61fe613,Green Trail Origin Beverages 2,grocery,beverages,43.09,179,2024-01-26 15:29:38
+0335a448-67ab-459f-9192-cb959937fc11,Daily Roots Origin Snacks 1,grocery,snacks,33.38,44,2023-04-05 17:55:43
+cffb8600-8286-4709-aec6-e8875bdc39db,Harvest Bay Classic Snacks 1,grocery,snacks,109.25,72,2024-07-17 00:57:40
+0d608b1a-b7b8-460d-875b-18bcc621ef8d,Daily Roots Origin Beverages 1,grocery,beverages,37.62,430,2024-12-12 13:09:27
+44ed4d26-8683-4c55-ae7b-2aef227e5d74,Daily Roots Pure Staples 1,grocery,staples,15.15,215,2023-07-21 04:03:59
+bc19bf23-1212-4d52-8b66-29e6c7902111,Daily Roots Pure Staples 2,grocery,staples,108.03,150,2023-11-29 15:14:51
+638315da-625f-4c16-b60e-754836287fdb,Daily Roots Classic Snacks 2,grocery,snacks,84.84,467,2022-10-29 15:26:50
+a3944137-2e25-4a1e-8514-79fbc8e4bbf2,Spiceway Pure Beverages 2,grocery,beverages,54.16,403,2023-08-17 11:14:10
+0e0536e2-f651-46ff-ac5c-af785b6e7e42,Spiceway Origin Staples 1,grocery,staples,40.71,415,2024-07-28 13:29:14
+c4819428-5d57-4ccf-98f7-afa9ee2a051f,Green Trail Select Snacks 1,grocery,snacks,113.05,251,2023-07-31 21:47:25
+5698e662-09ce-4931-8fd8-b02d56c5b449,Harvest Bay Select Staples 1,grocery,staples,54.7,47,2022-09-07 06:52:37
+8b099933-1fa9-439b-a52f-0cdf61814c1d,Spiceway Origin Beverages 1,grocery,beverages,79.67,51,2022-12-12 04:10:36
+333796ab-dea0-4771-b722-e5217a5c46df,Green Trail Select Beverages 2,grocery,beverages,75.97,32,2023-09-09 02:52:30
+3e47ab96-2595-4ac4-b5a1-71fc4e70a118,Green Trail Origin Staples 2,grocery,staples,71.26,46,2023-08-06 15:45:27
