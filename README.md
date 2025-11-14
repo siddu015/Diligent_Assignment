@@ -10,36 +10,38 @@ Each step includes the exact prompt used, validation results, and observations.
 
 ## Project Structure
 
+```
 Diligent_Assignment/
 │
 ├── ecommerce_dataset/
-│ ├── customers.csv
-│ ├── products.csv
-│ ├── orders.csv
-│ ├── order_items.csv
-│ └── payments.csv
+│   ├── customers.csv
+│   ├── products.csv
+│   ├── orders.csv
+│   ├── order_items.csv
+│   └── payments.csv
 │
 ├── database/
-│ └── ecommerce.db
+│   └── ecommerce.db
 │
 ├── scripts/
-│ ├── generate_ecommerce_dataset.py
-│ └── ingest_ecommerce_sqlite.py
+│   ├── generate_ecommerce_dataset.py
+│   └── ingest_ecommerce_sqlite.py
 │
 ├── prompts/
-│ ├── dataset_generation/
-│ │ ├── prompt.md
-│ │ └── observations.md
-│ │
-│ ├── ingestion/
-│ │ ├── prompt.md
-│ │ └── observations.md
-│ │
-│ └── sql_queries/
-│ ├── prompt.md
-│ └── observations.md
+│   ├── dataset_generation/
+│   │   ├── prompt.md
+│   │   └── observations.md
+│   │
+│   ├── ingestion/
+│   │   ├── prompt.md
+│   │   └── observations.md
+│   │
+│   └── sql_queries/
+│       ├── prompt.md
+│       └── observations.md
 │
 └── README.md
+```
 
 ---
 
