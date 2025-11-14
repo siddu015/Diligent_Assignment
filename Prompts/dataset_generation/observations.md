@@ -1,8 +1,8 @@
 # Synthetic Ecommerce Dataset Prompt
 
-## Ecommerce Dataset Prompt - 1
+Model used: GPT-5.1 Codex High
 
-Model: GPT-5.1 Codex High
+## Ecommerce Dataset Prompt - 1
 
 The exact prompt used is shown below.
 
@@ -198,8 +198,6 @@ This refinement prevents Cursor from inserting hidden rounding logic.
 ---
 
 ## Ecommerce Dataset Prompt - 2
-
-Model used - GPT-5.1 Codex High
 
 ```md
 You are an expert data engineer. Generate a complete synthetic ecommerce dataset with realistic relational integrity, business logic, and time distributions. Use Cursor Agent actions to create actual files in the workspace.

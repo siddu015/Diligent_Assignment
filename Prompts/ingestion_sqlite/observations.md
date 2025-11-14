@@ -1,5 +1,7 @@
 # Observations After SQLite Ingestion and Validation
 
+Model used: GPT-5.1 Codex High
+
 This document summarizes the ingestion and validation process for the synthetic ecommerce dataset into a SQLite database. It includes the prompts used for ingestion and validation, the results of the validation, an interpretation of those results, and suggested next steps.
 
 ## Ingestion Prompt Used
